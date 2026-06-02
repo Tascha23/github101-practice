@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| อนันดา สมใจ | Team 12 | UX/UI Designer / Demo | [example evidence](docs/evidence/example-student.md) | - |
+| อนันดา สมใจ | Team 12 | UX/UI Designer / Demo | [[example evidence](docs/evidence/example-student.md](https://github.com/Tascha23/github101-practice/blob/f81cc9b01ba999c040d93e6b2891fa1da07806e9/docs/evidence/67050584-ananda.md)) | - |
 
 ---
 
