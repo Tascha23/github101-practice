@@ -31,7 +31,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 เปิด repo นี้ และอ่านคำชี้แจงใน README
 
-### Task 2: แก้ไข README
+### Task 2: แก้ไข README 
 
 เพิ่มข้อมูลของตนเองในตาราง Student Submission Table
 
